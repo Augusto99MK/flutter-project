@@ -21,7 +21,7 @@ Map<String, User> DUMMY_USERS = {
       avatarUrl:
           'https://cdn.pixabay.com/photo/2013/07/13/13/43/gandalf-161456_1280.png'),
   '4': const User(
-      id: '2',
+      id: '4',
       name: "Wesker",
       email: "wesker@umbrella.com",
       avatarUrl:
